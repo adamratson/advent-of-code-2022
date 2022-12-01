@@ -1,7 +1,7 @@
-﻿// DayOne.cpp : Day One of AOC.
+﻿// DayOnePartOne.cpp : Day One Part One of AOC.
 //
 
-#include "DayOne.h"
+#include "DayOnePartOne.h"
 
 using namespace std;
 
